@@ -1,0 +1,17 @@
+{
+  "name": "babel-es6",
+  "version": "1.0.0",
+  "description": "Usando Babel con ES6 - Ejemplo basico con clases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6",
+    "Babel",
+    "Clases",
+    "POO"
+  ],
+  "author": "JuanDuran85",
+  "license": "ISC"
+}
